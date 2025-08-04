@@ -89,6 +89,6 @@ if submitted:
 
 st.write("---")
 st.markdown(
-    "<p style='text-align: center; color: gray;'>Developed using Streamlit | Machine Learning Project by G. Sai Sanjana</p>",
+    "<p style='text-align: center; color: gray;'>Developed using Streamlit | Machine Learning Project by Rudraksh Tripathi !</p>",
     unsafe_allow_html=True
 )
