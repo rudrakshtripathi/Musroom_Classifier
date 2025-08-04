@@ -43,6 +43,7 @@ Check out the live demo here: [Mushroom Classifier on Streamlit](https://musroom
 
 ## 📁 Project Structure
 
+```bash
 mushroom-classifier/
 │_
   ├── app.py # Main Streamlit app
@@ -50,7 +51,7 @@ mushroom-classifier/
   ├── requirements.txt # Dependencies
   ├── README.md # This file
   └── ...
-
+```
 ---
 
 ## ✅ How to Run Locally
